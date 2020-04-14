@@ -1,7 +1,3 @@
-###           常逸聪
-###   北京邮电大学计算机学院
-####  yicongchang@bupt.edu.cn
-
 <table border="0">
   <tr>
     <td width="75%">
