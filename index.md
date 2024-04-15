@@ -13,7 +13,7 @@
       </b></p>
       <p><b>
         <div align="center">
-          邮箱：yicongchang@bupt.edu.cn
+          邮箱：yicongchang@bupt.cn
         </div>
         </b></p>
     </td>
